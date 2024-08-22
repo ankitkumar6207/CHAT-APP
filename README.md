@@ -1,10 +1,10 @@
 #Chat App 
 
-https://syncdev.netlify.app/
 
 
 
-https://user-images.githubusercontent.com/67092427/219924586-eefc6121-5cba-4861-89f0-340b847ccdbc.mp4
+
+[https://user-images.githubusercontent.com/67092427/219924586-eefc6121-5cba-4861-89f0-340b847ccdbc.mp4](https://drive.google.com/file/d/1_WsKR4iKADU2YQSZuNgdHM52p1rXIsJK/view?usp=sharing)
 
 
 
