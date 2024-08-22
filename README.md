@@ -48,7 +48,7 @@ A real-time chat application integrated with ChatGPT API for AI-powered conversa
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ankitkumar6207/CHAT-APP
-   cd ai-chat-app
+   cd CHAT-APP
 
 ## Screenshots Of Chat App
 
