@@ -76,8 +76,8 @@ A real-time chat application integrated with ChatGPT API for AI-powered conversa
  - Media Sharing: Upload and share images or files within chat rooms.
 
 ### Links
- - GitHub Repository: https://github.com/your-username/ai-chat-app
- - Live Demo: https://your-live-demo-link.com
+ - GitHub Repository: [https://github.com/your-username/ai-chat-app](https://github.com/ankitkumar6207/CHAT-APP/tree/master)
+ - Live Demo: ##
  - OpenAI: https://openai.com
  - Chat Engine: https://chatengine.io
 
