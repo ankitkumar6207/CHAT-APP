@@ -50,6 +50,44 @@ A real-time chat application integrated with ChatGPT API for AI-powered conversa
    git clone https://github.com/ankitkumar6207/CHAT-APP
    cd CHAT-APP
 
+2. **Install dependencies:**
+   ```bash
+   npm install
+
+3. **Set up environment variables:**
+   Create a .env file in the root directory and add the following:
+   ```bash
+   MONGO_URI=your-mongodb-connection-string
+   CHAT_ENGINE_PROJECT_ID=your-chat-engine-project-id
+   OPENAI_API_KEY=your-openai-api-key
+
+4. **Start the development server:**
+   ```bash
+   npm run dev
+
+4. **Open the app:**
+   Visit http://localhost:3000 in your browser.
+
+
+### Usage
+
+ - Sign Up/Login: Create a new account or log in with existing credentials.
+ - Start Chatting: Enter a chat room, type your message, and see AI responses in real-time.
+ - Media Sharing: Upload and share images or files within chat rooms.
+
+### Links
+ - GitHub Repository: https://github.com/your-username/ai-chat-app
+ - Live Demo: https://your-live-demo-link.com
+ - OpenAI: https://openai.com
+ - Chat Engine: https://chatengine.io
+
+### Contact
+ - Your Name: ankitit10012@gmail.com
+ - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ankitkumar62/)
+
+
+
+
 ## Screenshots Of Chat App
 
 ![Screenshot 2024-08-22 171722](https://github.com/user-attachments/assets/46fddc0a-19c2-49ca-86f1-9c67eca547f1)
