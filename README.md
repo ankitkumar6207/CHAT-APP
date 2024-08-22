@@ -1,5 +1,5 @@
 #Chat App 
-
+![Screenshot 2024-08-22 171722](https://github.com/user-attachments/assets/32d341c5-096f-4759-8047-eddf924ef983)
 
 
 
