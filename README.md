@@ -82,8 +82,8 @@ A real-time chat application integrated with ChatGPT API for AI-powered conversa
  - Chat Engine: https://chatengine.io
 
 ### Contact
- - Your Name: ankitit10012@gmail.com
- - LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ankitkumar62/)
+ - Ankit kumar: ankitit10012@gmail.com
+ - LinkedIn: https://www.linkedin.com/in/ankitkumar62/
 
 
 
